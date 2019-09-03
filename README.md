@@ -1,4 +1,4 @@
-# Natural-Scene-Text-Detection
+# Natural-Scene-Text-Detection and Recongition
 
 ## Run the final_text.py file using the following syntax:
 `python final_text.py --image (image name with path) --east (east_weights.pb)` 
