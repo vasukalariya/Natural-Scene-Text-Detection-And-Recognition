@@ -4,6 +4,6 @@
 `python final_text.py --image (image name with path) --east (east_weights.pb)` 
  
 ## Download the pretrained weights from:
- https://drive.google.com/drive/folders/1HUe-KFFNkb0piD0PGfCubI2GtopAhJcL
- 
+https://drive.google.com/open?id=1HUe-KFFNkb0piD0PGfCubI2GtopAhJcL
+
 ## For further details read Explanation.pdf
