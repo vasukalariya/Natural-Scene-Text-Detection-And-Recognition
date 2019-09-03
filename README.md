@@ -5,3 +5,5 @@
  
 ## Download the pretrained weights from:
  https://drive.google.com/drive/folders/1HUe-KFFNkb0piD0PGfCubI2GtopAhJcL
+ 
+## For further details read Explanation.pdf
